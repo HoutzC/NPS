@@ -1,0 +1,651 @@
+park code,Park,Month,Record high temp F,Average high temp F,Daily mean temp F,Average low temp F,Record Low Temp F,Average precipation IN,Average snowfall IN,Average precipation DAYS
+ACAD,Acadia National Park,Jan,57,32.5,23.8,15.1,-21,4.48,18.3,12.1
+ACAD,Acadia National Park,Feb,61,34.9,26.2,17.5,-18,3.84,13.2,9.8
+ACAD,Acadia National Park,Mar,82,41.6,33.3,25,-11,4.94,14.6,12.2
+ACAD,Acadia National Park,Apr,85,53.2,44,34.8,8,5.15,4.9,11.6
+ACAD,Acadia National Park,May,96,64.5,54.7,44.8,24,4.5,0,13.5
+ACAD,Acadia National Park,Jun,95,73.9,63.9,53.8,32,4.28,0,12.1
+ACAD,Acadia National Park,Jul,96,79.3,69.7,60.2,36,3.27,0,10.8
+ACAD,Acadia National Park,Aug,94,78.3,69,59.7,35,3.45,0,9.3
+ACAD,Acadia National Park,Sep,95,70.9,61.9,52.8,31,4.22,0,10.7
+ACAD,Acadia National Park,Oct,83,58.5,50.6,42.8,16,5.86,0.2,11.5
+ACAD,Acadia National Park,Nov,71,47.8,40.3,32.7,3,5.89,3,11.4
+ACAD,Acadia National Park,Dec,63,37.8,30.1,22.4,-13,5.66,11.9,13.7
+ACAD,Acadia National Park,Year,96,56.1,47.3,38.5,-21,55.54,66.1,138.7
+ARCH,Arches National Park,Jan,63,41.5,31.9,22.3,-4,0.55,2.1,4.2
+ARCH,Arches National Park,Feb,74,50,39.6,29.1,-8,0.56,1.2,4.5
+ARCH,Arches National Park,Mar,87,62.1,49.5,36.9,13,0.65,0.5,4.9
+ARCH,Arches National Park,Apr,93,69.6,56.7,43.7,21,0.71,0,5
+ARCH,Arches National Park,May,105,80.1,66.6,53,28,0.75,0,4.8
+ARCH,Arches National Park,Jun,110,92.5,77.8,63,37,0.43,0,2.4
+ARCH,Arches National Park,Jul,116,98.7,84.5,70.3,50,0.73,0,4.7
+ARCH,Arches National Park,Aug,109,95.8,81.9,67.9,44,0.9,0,6
+ARCH,Arches National Park,Sep,105,87.1,72.7,58.3,26,0.88,0,4.9
+ARCH,Arches National Park,Oct,95,72.1,58.1,44.2,16,1.12,0.1,5.5
+ARCH,Arches National Park,Nov,79,55.9,44.3,32.6,10,0.56,0.7,4.1
+ARCH,Arches National Park,Dec,69,41.9,32.9,23.9,-4,0.61,3.5,3.8
+ARCH,Arches National Park,Year,116,70.6,58,45.4,-8,8.45,8.1,54.8
+BADL,Badlands National Park,Jan,71,37.1,25.7,14.2,-28,0.46,5.5,4.4
+BADL,Badlands National Park,Feb,75,40.8,28.5,16.2,-31,0.55,6.4,4.8
+BADL,Badlands National Park,Mar,85,52.5,39.1,25.8,-23,1.16,5.9,5.6
+BADL,Badlands National Park,Apr,94,62.2,48.4,34.7,3,2.26,6.4,8.7
+BADL,Badlands National Park,May,102,72.1,58.9,45.7,20,3.62,0.5,9.8
+BADL,Badlands National Park,Jun,109,82.7,69.2,55.7,32,3.46,0,10.4
+BADL,Badlands National Park,Jul,114,91.2,76.8,62.3,42,2.23,0,8.1
+BADL,Badlands National Park,Aug,110,90.5,75.3,60.2,35,1.81,0,6.5
+BADL,Badlands National Park,Sep,106,81.8,66.2,50.5,25,1.39,0,5.8
+BADL,Badlands National Park,Oct,97,65.4,51.6,37.8,0,1.59,1.9,6.5
+BADL,Badlands National Park,Nov,84,50,37.6,25.2,-21,0.53,3.7,4.4
+BADL,Badlands National Park,Dec,72,39,27.8,16.6,-31,0.54,7.7,4.8
+BADL,Badlands National Park,Year,114,63.8,50.4,37.1,-31,19.6,38,79.8
+BIBE,Big Bend National Park,Jan,83,60.8,48.8,36.8,4,0.48,0.1,3.1
+BIBE,Big Bend National Park,Feb,91,66.3,53.8,41.4,6,0.44,0.1,3.1
+BIBE,Big Bend National Park,Mar,95,74,60.3,46.6,19,0.39,0,1.9
+BIBE,Big Bend National Park,Apr,100,81.9,67.8,53.6,29,0.49,0,2.3
+BIBE,Big Bend National Park,May,105,89.3,75.9,62.4,38,1.3,0,4.8
+BIBE,Big Bend National Park,Jun,109,93.6,81,68.3,48,1.67,0,6.1
+BIBE,Big Bend National Park,Jul,108,92,80.7,69.5,51,2.25,0,7.3
+BIBE,Big Bend National Park,Aug,105,91.2,80.2,69.1,50,1.93,0,7.1
+BIBE,Big Bend National Park,Sep,103,85.9,74.6,63.3,37,1.71,0,5.8
+BIBE,Big Bend National Park,Oct,99,79.7,67.3,54.8,24,1.17,0,4.3
+BIBE,Big Bend National Park,Nov,89,69,57,44.9,14,0.7,0,3.3
+BIBE,Big Bend National Park,Dec,83,61.6,49.7,37.7,4,0.47,0.2,2.6
+BIBE,Big Bend National Park,Year,109,78.8,66.4,54,4,13,0.4,51.7
+BISC,Biscayne National Park,Jan,83.7,74.1,,61.8,35,1.85,,
+BISC,Biscayne National Park,Feb,87.1,75.5,,63.5,38.6,1.91,,
+BISC,Biscayne National Park,Mar,88,76.8,,66,43.6,2.62,,
+BISC,Biscayne National Park,Apr,92.2,79,,68.7,51.7,2.55,,
+BISC,Biscayne National Park,May,91.2,82.1,,73.6,59.5,4.64,,
+BISC,Biscayne National Park,Jun,93.9,85.5,,77,65.9,7.83,,
+BISC,Biscayne National Park,Jul,95,87.2,,78.6,72.6,5.41,,
+BISC,Biscayne National Park,Aug,93.6,87.3,,78.9,72,7.09,,
+BISC,Biscayne National Park,Sep,92.3,86.4,,78.3,70.8,7.56,,
+BISC,Biscayne National Park,Oct,89.9,83.2,,75,55.9,5.18,,
+BISC,Biscayne National Park,Nov,88.7,79.2,,69.8,47.7,2.85,,
+BISC,Biscayne National Park,Dec,86.7,75.9,,64.6,32.8,1.79,,
+BISC,Biscayne National Park,Year,95,81,,71.4,32.8,51.28,,
+BLCA,Black Canyon of the Gunnison National Park,Jan,55,36.8,24.8,12.9,-22,1.73,20.2,9.3
+BLCA,Black Canyon of the Gunnison National Park,Feb,60,39.7,27.8,15.9,-24,1.74,22.2,9.6
+BLCA,Black Canyon of the Gunnison National Park,Mar,69,48.5,35.7,22.9,-10,1.99,19,8.4
+BLCA,Black Canyon of the Gunnison National Park,Apr,80,56.1,42.7,29.3,0,1.84,14.2,8
+BLCA,Black Canyon of the Gunnison National Park,May,86,66.4,52.3,38.3,13,1.59,6.6,9.2
+BLCA,Black Canyon of the Gunnison National Park,Jun,93,76.3,61.3,46.3,25,0.73,0.4,4.8
+BLCA,Black Canyon of the Gunnison National Park,Jul,97,82.1,67.3,52.5,34,1.65,0,12.6
+BLCA,Black Canyon of the Gunnison National Park,Aug,93,80.8,66.3,51.9,32,1.69,0,10.5
+BLCA,Black Canyon of the Gunnison National Park,Sep,90,72.4,58.4,44.3,16,2.08,1,9.3
+BLCA,Black Canyon of the Gunnison National Park,Oct,80,59.9,46.3,32.8,-3,1.9,4.8,8.1
+BLCA,Black Canyon of the Gunnison National Park,Nov,68,46.8,34.9,23.1,-16,1.49,12,6.3
+BLCA,Black Canyon of the Gunnison National Park,Dec,56,35.7,24.4,13.1,-13,1.52,20.3,9.7
+BLCA,Black Canyon of the Gunnison National Park,Year,97,58.5,45.2,31.9,-24,19.95,120.7,105.8
+BRCA,Bryce Canyon National Park,Jan,59,36.9,26.9,17,-26,1.91,19.8,6.3
+BRCA,Bryce Canyon National Park,Feb,64,38.8,28.6,18.4,-26,1.7,18.1,7.6
+BRCA,Bryce Canyon National Park,Mar,67,45.8,34.5,23.3,-11,1.27,13.2,6.2
+BRCA,Bryce Canyon National Park,Apr,75,53.5,41.2,28.9,-3,0.77,5.9,5.7
+BRCA,Bryce Canyon National Park,May,85,63.1,49.9,36.6,13,0.91,1.5,5.5
+BRCA,Bryce Canyon National Park,Jun,95,75.1,59.8,44.6,21,0.47,0.2,3.2
+BRCA,Bryce Canyon National Park,Jul,98,80,66,52.1,28,1.55,0,8.8
+BRCA,Bryce Canyon National Park,Aug,90,77.5,63.7,50,23,1.94,0,10.2
+BRCA,Bryce Canyon National Park,Sep,89,70.1,55.9,41.6,16,1.78,0,7
+BRCA,Bryce Canyon National Park,Oct,79,58.2,45,31.9,0,1.73,3,5.3
+BRCA,Bryce Canyon National Park,Nov,68,45.8,34.3,22.8,-12,1.28,9.7,4.7
+BRCA,Bryce Canyon National Park,Dec,60,36.8,26.9,17,-23,1.34,15.3,6.2
+BRCA,Bryce Canyon National Park,Year,98,56.8,44.4,32,-26,16.65,86.7,76.7
+CANY,Canyonlands National Park,Jan,58,36.8,29.6,22.3,-7,0.55,6.1,4.4
+CANY,Canyonlands National Park,Feb,67,43.2,35.2,27.3,-13,0.58,3.5,4.5
+CANY,Canyonlands National Park,Mar,78,54.2,44.5,34.9,0,0.75,3,4.6
+CANY,Canyonlands National Park,Apr,84,62,51.1,40.1,14,0.68,0.3,5.2
+CANY,Canyonlands National Park,May,97,72.4,61.3,50.2,22,0.87,0.1,5.4
+CANY,Canyonlands National Park,Jun,102,84.6,73.1,61.7,26,0.36,0,2.4
+CANY,Canyonlands National Park,Jul,105,90.8,79.3,67.9,41,0.91,0,5.9
+CANY,Canyonlands National Park,Aug,101,87.8,76.8,65.7,41,1.16,0,6.4
+CANY,Canyonlands National Park,Sep,98,79,68,57,25,1,0,6.2
+CANY,Canyonlands National Park,Oct,89,64.6,54.3,43.9,9,1.22,0.1,5.7
+CANY,Canyonlands National Park,Nov,72,49.1,40.8,32.6,6,0.55,3.2,4.3
+CANY,Canyonlands National Park,Dec,62,36.9,29.7,22.6,-10,0.7,6.5,4.4
+CANY,Canyonlands National Park,Year,105,63.4,53.6,43.8,-13,9.33,22.8,59.4
+CARE,Capitol Reef National Park,Jan,69,40.6,30.5,20.5,-9,0.56,3.8,3.3
+CARE,Capitol Reef National Park,Feb,72,46.8,36.2,25.7,-7,0.5,1.5,3.7
+CARE,Capitol Reef National Park,Mar,80,57.3,45.4,33.6,10,0.46,1.7,3.6
+CARE,Capitol Reef National Park,Apr,91,64.7,51.9,39.2,18,0.52,0.2,4.5
+CARE,Capitol Reef National Park,May,97,74.3,61.3,48.3,28,0.65,0,4.9
+CARE,Capitol Reef National Park,Jun,104,86.4,72.3,58.2,35,0.35,0,3.3
+CARE,Capitol Reef National Park,Jul,104,91.2,78.2,65.2,44,1.03,0,7.7
+CARE,Capitol Reef National Park,Aug,102,87.8,75.3,62.8,42,1.12,0,8.1
+CARE,Capitol Reef National Park,Sep,99,79.7,67.2,54.7,30,0.95,0,5.3
+CARE,Capitol Reef National Park,Oct,91,65.9,54.5,43.1,12,0.87,0,4.5
+CARE,Capitol Reef National Park,Nov,77,51,40.7,30.4,5,0.5,1.5,2.7
+CARE,Capitol Reef National Park,Dec,69,40.2,30.4,20.6,-8,0.37,2.2,2.9
+CARE,Capitol Reef National Park,Year,104,65.5,53.7,41.9,-9,7.88,10.9,54.5
+CAVE,Carlsbad Caverns National Park,Jan,81,56,44.9,33.7,-4,0.32,0.4,3.7
+CAVE,Carlsbad Caverns National Park,Feb,86,60.9,48.8,36.8,-4,0.44,0.9,2.7
+CAVE,Carlsbad Caverns National Park,Mar,90,67.9,55.2,42.6,10,0.57,0,3.2
+CAVE,Carlsbad Caverns National Park,Apr,96,75.7,62.5,49.3,21,0.5,0,2.3
+CAVE,Carlsbad Caverns National Park,May,106,84.1,71.2,58.3,31,1.25,0,3.5
+CAVE,Carlsbad Caverns National Park,Jun,110,92.4,79.1,65.7,41,1.16,0,4.8
+CAVE,Carlsbad Caverns National Park,Jul,106,91.2,79.5,67.8,42,2.23,0,5.6
+CAVE,Carlsbad Caverns National Park,Aug,105,90.3,78.3,66.3,47,2,0,6.4
+CAVE,Carlsbad Caverns National Park,Sep,100,83.2,71.8,60.4,33,2.93,0,6.2
+CAVE,Carlsbad Caverns National Park,Oct,97,75.4,63.8,52.1,15,1.16,0,5.1
+CAVE,Carlsbad Caverns National Park,Nov,87,64.6,53.2,41.9,8,0.68,0.2,3
+CAVE,Carlsbad Caverns National Park,Dec,82,56.6,45.9,35.1,2,0.55,2,3.2
+CAVE,Carlsbad Caverns National Park,Year,110,74.9,62.8,50.8,-4,13.79,3.5,49.7
+CHIS,Channel Islands National Park,Jan,81.5,62.4,,51.6,37,2.7,,
+CHIS,Channel Islands National Park,Feb,77.8,61.4,,52.3,39.5,3.03,,
+CHIS,Channel Islands National Park,Mar,83.5,62,,52.4,40.5,1.87,,
+CHIS,Channel Islands National Park,Apr,90.8,63.6,,51.7,39.7,0.72,,
+CHIS,Channel Islands National Park,May,86,64.9,,54.6,47.6,0.11,,
+CHIS,Channel Islands National Park,Jun,97.4,66.8,,57.3,49.7,0.01,,
+CHIS,Channel Islands National Park,Jul,85.1,68.8,,59.7,53.7,0.02,,
+CHIS,Channel Islands National Park,Aug,81.6,69.7,,60.9,53.1,0.03,,
+CHIS,Channel Islands National Park,Sep,90.4,70.1,,60.7,53.3,0.35,,
+CHIS,Channel Islands National Park,Oct,92.6,69,,59.1,47.5,0.54,,
+CHIS,Channel Islands National Park,Nov,94.1,65.9,,55.3,44.6,0.96,,
+CHIS,Channel Islands National Park,Dec,77.9,61.8,,52,36.9,1.55,,
+CHIS,Channel Islands National Park,Year,97.4,65.6,,55.7,36.9,11.89,,
+CONG,Congaree National Park,Jan,81.2,57.6,,34.4,1.2,3.89,,
+CONG,Congaree National Park,Feb,84.1,61.2,,36.2,13.2,3.58,,
+CONG,Congaree National Park,Mar,89.1,68.6,,42.7,17.6,3.97,,
+CONG,Congaree National Park,Apr,91.6,76.2,,50.6,27.5,3.12,,
+CONG,Congaree National Park,May,99.6,83,,59.6,37.5,3.47,,
+CONG,Congaree National Park,Jun,105.3,89.2,,67.6,47.4,4.97,,
+CONG,Congaree National Park,Jul,105.1,92.3,,71.1,56.5,4.84,,
+CONG,Congaree National Park,Aug,104.8,90.6,,70.4,54.8,5.01,,
+CONG,Congaree National Park,Sep,98.1,85.7,,64.6,44.7,4.43,,
+CONG,Congaree National Park,Oct,98.4,76.8,,52.5,29.3,3.55,,
+CONG,Congaree National Park,Nov,85.6,67.5,,41.3,18.8,2.97,,
+CONG,Congaree National Park,Dec,82.2,59.9,,36.2,8.5,3.77,,
+CONG,Congaree National Park,Year,105.3,75.8,,52.3,1.2,47.57,,
+CRLA,Crater Lake National Park,Jan,64,33.4,26.6,19.8,-21,10.1,86.5,17.9
+CRLA,Crater Lake National Park,Feb,66,33.6,26.3,18.9,-18,7.53,68.9,16.7
+CRLA,Crater Lake National Park,Mar,67,36.1,28.2,20.3,-7,7.81,71.9,18
+CRLA,Crater Lake National Park,Apr,71,40.3,31.7,23.1,-3,6.16,48.7,16.5
+CRLA,Crater Lake National Park,May,80,49,39.2,29.3,5,3.65,14.5,11.5
+CRLA,Crater Lake National Park,Jun,95,57,45.3,33.6,10,2.27,3.7,7.4
+CRLA,Crater Lake National Park,Jul,100,68.9,55.1,41.4,18,0.8,0,3.5
+CRLA,Crater Lake National Park,Aug,94,69.3,55.4,41.5,16,0.83,0,3.7
+CRLA,Crater Lake National Park,Sep,93,63,50.1,37.1,16,1.93,1.8,5.3
+CRLA,Crater Lake National Park,Oct,81,50.7,40.4,30.2,3,4.8,17.2,10.6
+CRLA,Crater Lake National Park,Nov,71,38,30.6,23.2,-7,9.6,59.3,16.7
+CRLA,Crater Lake National Park,Dec,64,32.7,25.9,19.1,-18,11.28,90.6,18.4
+CRLA,Crater Lake National Park,Year,100,47.7,37.9,28.1,-21,66.76,463.1,146.2
+CUVA,Cuyahoga National Park,Jan,69.3,34.9,,20.7,-23.3,2.43,,
+CUVA,Cuyahoga National Park,Feb,75.7,38.1,,22.3,-12.2,2.08,,
+CUVA,Cuyahoga National Park,Mar,82.5,47.1,,28.9,-5.7,2.77,,
+CUVA,Cuyahoga National Park,Apr,86.8,59.5,,39.6,14.5,3.35,,
+CUVA,Cuyahoga National Park,May,91.5,70.2,,49.1,29.3,3.92,,
+CUVA,Cuyahoga National Park,Jun,101.7,79.6,,59.2,37.4,3.84,,
+CUVA,Cuyahoga National Park,Jul,100.8,83.4,,63.4,44.6,3.94,,
+CUVA,Cuyahoga National Park,Aug,97.6,81.5,,62,41.3,3.56,,
+CUVA,Cuyahoga National Park,Sep,93.3,74.8,,55.2,35.7,3.51,,
+CUVA,Cuyahoga National Park,Oct,89.6,63.2,,44.7,21.5,2.88,,
+CUVA,Cuyahoga National Park,Nov,78.5,51.5,,35.9,10.6,3.27,,
+CUVA,Cuyahoga National Park,Dec,75.9,38.9,,25.8,-14.9,2.87,,
+CUVA,Cuyahoga National Park,Year,101.7,60.3,,42.3,-23.3,38.42,,
+DENA,Denali National Park,Jan,52,10.1,2.2,-5.7,-52,0.61,9.6,8.3
+DENA,Denali National Park,Feb,52,19.6,9.3,-0.9,-54,0.71,9.6,6.9
+DENA,Denali National Park,Mar,56,25.1,12.5,-0.1,-47,0.51,8.2,5.8
+DENA,Denali National Park,Apr,67,40.6,28.7,16.9,-33,0.43,6.9,4.4
+DENA,Denali National Park,May,81,54.9,43,31.1,-14,0.84,2.6,7.3
+DENA,Denali National Park,Jun,91,65.3,53,40.8,19,2.42,0.1,14
+DENA,Denali National Park,Jul,88,66.4,55.5,44.5,23,3.12,0,16.2
+DENA,Denali National Park,Aug,88,61.1,50.9,40.8,17,3.01,0,16.9
+DENA,Denali National Park,Sep,82,50.7,40.8,30.9,-6,1.74,5,13.4
+DENA,Denali National Park,Oct,69,33.7,24.7,15.7,-24,0.84,9.4,9.8
+DENA,Denali National Park,Nov,56,17.6,9.8,1.9,-37,0.84,12.9,10.6
+DENA,Denali National Park,Dec,52,13.8,5.6,-2.5,-54,0.83,12.4,9.7
+DENA,Denali National Park,Year,91,38.3,28,17.8,-54,15.9,76.7,123.3
+DEVA,Death Valley National Park,Jan,90,67.2,54.9,42.5,15,0.37,,2.4
+DEVA,Death Valley National Park,Feb,97,73.7,61.3,49,20,0.52,,2.9
+DEVA,Death Valley National Park,Mar,103,82.6,69.8,57.1,26,0.25,,2
+DEVA,Death Valley National Park,Apr,113,91,77.9,64.8,35,0.1,,1.1
+DEVA,Death Valley National Park,May,122,100.7,87.8,75,42,0.03,,0.9
+DEVA,Death Valley National Park,Jun,128,111.1,97.5,84,49,0.05,,0.3
+DEVA,Death Valley National Park,Jul,134,117.4,104.2,91,62,0.1,,1.1
+DEVA,Death Valley National Park,Aug,130,115.9,102.3,88.7,65,0.1,,0.9
+DEVA,Death Valley National Park,Sep,125,107.7,93.4,79.1,41,0.2,,0.8
+DEVA,Death Valley National Park,Oct,113,93.3,78.9,64.4,32,0.12,,1.1
+DEVA,Death Valley National Park,Nov,98,77.4,64,50.5,24,0.1,,0.9
+DEVA,Death Valley National Park,Dec,89,65.6,53.4,41.1,19,0.26,,1.6
+DEVA,Death Valley National Park,Year,134,92,78.8,65.6,15,2.2,,16
+DENA,Denali National Park,Jan,52,10.1,2.2,-5.7,-52,0.61,9.6,8.3
+DENA,Denali National Park,Feb,52,19.6,9.3,-0.9,-54,0.71,9.6,6.9
+DENA,Denali National Park,Mar,56,25.1,12.5,-0.1,-47,0.51,8.2,5.8
+DENA,Denali National Park,Apr,67,40.6,28.7,16.9,-33,0.43,6.9,4.4
+DENA,Denali National Park,May,81,54.9,43,31.1,-14,0.84,2.6,7.3
+DENA,Denali National Park,Jun,91,65.3,53,40.8,19,2.42,0.1,14
+DENA,Denali National Park,Jul,88,66.4,55.5,44.5,23,3.12,0,16.2
+DENA,Denali National Park,Aug,88,61.1,50.9,40.8,17,3.01,0,16.9
+DENA,Denali National Park,Sep,82,50.7,40.8,30.9,-6,1.74,5,13.4
+DENA,Denali National Park,Oct,69,33.7,24.7,15.7,-24,0.84,9.4,9.8
+DENA,Denali National Park,Nov,56,17.6,9.8,1.9,-37,0.84,12.9,10.6
+DENA,Denali National Park,Dec,52,13.8,5.6,-2.5,-54,0.83,12.4,9.7
+DENA,Denali National Park,Year,91,38.3,28,17.8,-54,15.9,76.7,123.3
+DRTO,Dry Tortugas National Park,Jan,89,73.9,69.3,64.7,46,2.35,,6.9
+DRTO,Dry Tortugas National Park,Feb,92,75.5,70.5,65.5,40,1.69,,5.7
+DRTO,Dry Tortugas National Park,Mar,93,78.7,73.1,67.5,47,2.07,,4.1
+DRTO,Dry Tortugas National Park,Apr,94,82.7,76.9,71.1,56,2.6,,4.2
+DRTO,Dry Tortugas National Park,May,96,86,80.3,74.5,55,2.02,,4.5
+DRTO,Dry Tortugas National Park,Jun,99,89.2,83.3,77.4,64,4.26,,7.4
+DRTO,Dry Tortugas National Park,Jul,98,91,84.4,77.9,64,2.19,,8.7
+DRTO,Dry Tortugas National Park,Aug,101,91.4,85.2,79,65,4.31,,10.4
+DRTO,Dry Tortugas National Park,Sep,98,88.9,83.4,77.9,66,7.18,,11.9
+DRTO,Dry Tortugas National Park,Oct,95,85,80.4,75.8,59,4.72,,9.8
+DRTO,Dry Tortugas National Park,Nov,90,79.4,74.9,70.5,51,1.88,,4.3
+DRTO,Dry Tortugas National Park,Dec,88,75.7,71.2,66.6,48,2.36,,6.1
+DRTO,Dry Tortugas National Park,Year,101,83.1,77.7,72.4,40,37.63,,84
+EVER,Everglades National Park,Jan,92,78,66.6,55.1,24,1.7,,6.6
+EVER,Everglades National Park,Feb,97,80.9,68.7,56.5,29,1.82,,6.5
+EVER,Everglades National Park,Mar,101,83.3,70.7,58,31,1.93,,6.7
+EVER,Everglades National Park,Apr,102,86.4,74.2,62,37,2.85,,6.3
+EVER,Everglades National Park,May,107,89.4,78,66.6,49,5.84,,10.9
+EVER,Everglades National Park,Jun,104,91.1,81.6,72,50,9,,17.2
+EVER,Everglades National Park,Jul,102,92.5,83,73.5,66,6.82,,17.2
+EVER,Everglades National Park,Aug,103,92.6,83.5,74.3,66,8.57,,19.2
+EVER,Everglades National Park,Sep,105,91.3,82.8,74.2,64,9.01,,18.3
+EVER,Everglades National Park,Oct,106,88,79.4,70.9,49,5.55,,12.6
+EVER,Everglades National Park,Nov,99,83.2,73.5,63.8,31,2.39,,7.8
+EVER,Everglades National Park,Dec,95,80,69.3,58.6,27,1.88,,6.6
+EVER,Everglades National Park,Year,107,86.4,75.9,65.5,24,57.36,,135.9
+GLAC,Glacier National Park,Jan,55,29.9,24.6,19.3,-35,3.54,32,17.9
+GLAC,Glacier National Park,Feb,58,33.6,26.5,19.4,-32,2.17,16,14.5
+GLAC,Glacier National Park,Mar,66,42.5,33.8,25.1,-30,2.58,14,15
+GLAC,Glacier National Park,Apr,83,52.6,42,31.4,3,2.15,3.1,13.9
+GLAC,Glacier National Park,May,90,64.1,51.6,39,13,2.62,0.5,13.6
+GLAC,Glacier National Park,Jun,97,70.4,57.8,45.1,24,3.8,0,14.9
+GLAC,Glacier National Park,Jul,99,80.2,64.9,49.6,31,1.39,0,8.5
+GLAC,Glacier National Park,Aug,100,79.4,63.6,47.9,26,1.17,0,6.8
+GLAC,Glacier National Park,Sep,95,68,54.4,40.8,18,1.96,0,9.6
+GLAC,Glacier National Park,Oct,79,51.7,42.3,32.9,-3,3.05,2,13.6
+GLAC,Glacier National Park,Nov,65,37,31.7,26.4,-17,3.23,16.2,16.3
+GLAC,Glacier National Park,Dec,52,29.2,24.5,19.9,-36,3.21,31.4,17.8
+GLAC,Glacier National Park,Year,100,53.2,43.1,33.1,-36,30.87,115.2,162.4
+GLBA,Glacier Bay National Park,Jan,52,31.6,28.5,25.5,-11,6.71,28,21.9
+GLBA,Glacier Bay National Park,Feb,53,33.5,29.7,26,-4,4.76,18.6,14.3
+GLBA,Glacier Bay National Park,Mar,55,36.9,32.3,27.7,-5,4.35,14.8,14
+GLBA,Glacier Bay National Park,Apr,73,45.5,39.3,33,17,3.38,2.2,14.1
+GLBA,Glacier Bay National Park,May,77,54,46.6,39.2,20,3.06,0,15.4
+GLBA,Glacier Bay National Park,Jun,82,59.1,52.2,45.3,26,2.83,0,12.3
+GLBA,Glacier Bay National Park,Jul,81,60.7,54.6,48.5,37,4.76,0,15.1
+GLBA,Glacier Bay National Park,Aug,81,60,54,47.9,32,5.97,0,17.9
+GLBA,Glacier Bay National Park,Sep,71,53.5,48.4,43.3,21,9.16,0,21.8
+GLBA,Glacier Bay National Park,Oct,63,45,41,37,3,10.16,1,23.1
+GLBA,Glacier Bay National Park,Nov,53,36.5,33.4,30.4,0,8.51,16,20.5
+GLBA,Glacier Bay National Park,Dec,53,33.2,30.3,27.3,-3,8.95,22.6,20.9
+GLBA,Glacier Bay National Park,Year,82,45.8,40.9,35.9,-11,72.6,103.2,211.3
+GRCA,Grand Canyon National Park,Jan,64,44.3,31.7,19.2,-17,1.76,12.9,6.4
+GRCA,Grand Canyon National Park,Feb,69,46.3,33.7,21.1,-20,1.23,7.8,6.1
+GRCA,Grand Canyon National Park,Mar,77,53.6,39.3,25,-1,1.85,8.1,5.9
+GRCA,Grand Canyon National Park,Apr,82,60.9,44.9,28.8,8,0.64,2.8,3.5
+GRCA,Grand Canyon National Park,May,92,69.9,52.8,35.6,17,0.4,0.1,2.6
+GRCA,Grand Canyon National Park,Jun,101,82,62.5,43,25,0.22,0,1.7
+GRCA,Grand Canyon National Park,Jul,97,84.9,67.7,50.4,35,2.33,0,7
+GRCA,Grand Canyon National Park,Aug,97,82.1,65.9,49.8,35,2.19,0,10.1
+GRCA,Grand Canyon National Park,Sep,93,75.8,59.8,43.7,24,1.5,0,5.7
+GRCA,Grand Canyon National Park,Oct,89,64.6,49,33.3,8,1.23,1.1,5.1
+GRCA,Grand Canyon National Park,Nov,74,53.2,39,24.7,-6,0.77,2.2,4
+GRCA,Grand Canyon National Park,Dec,65,43,30.6,18.2,-20,1.25,8,6
+GRCA,Grand Canyon National Park,Year,101,63.4,48.1,32.7,-20,15.37,43,64.1
+GRTE,Grand Teton National Park,Jan,50,27.4,14.3,1.2,-46,2.64,40.5,15.8
+GRTE,Grand Teton National Park,Feb,55,32.3,19.2,6.2,-42,2.22,28.4,14.5
+GRTE,Grand Teton National Park,Mar,65,41.7,28.2,14.8,-25,1.81,19.5,11.5
+GRTE,Grand Teton National Park,Apr,78,50.2,36.9,23.7,-10,1.8,9.8,10.3
+GRTE,Grand Teton National Park,May,88,61.5,47.1,32.7,7,1.99,0.9,12
+GRTE,Grand Teton National Park,Jun,92,71.1,54.9,38.6,20,1.81,0,10.9
+GRTE,Grand Teton National Park,Jul,97,81.7,62.7,43.7,26,1.15,0,8.8
+GRTE,Grand Teton National Park,Aug,97,80.7,61.2,41.7,22,1.22,0,8.7
+GRTE,Grand Teton National Park,Sep,92,70.8,52.5,34.2,6,1.57,0.3,8.3
+GRTE,Grand Teton National Park,Oct,83,55.6,40.3,25.1,-9,1.69,4.2,9.3
+GRTE,Grand Teton National Park,Nov,67,39.3,27.4,15.4,-25,2.33,18.2,10.4
+GRTE,Grand Teton National Park,Dec,55,28.2,16.2,4.3,-43,2.78,44.1,16.1
+GRTE,Grand Teton National Park,Year,97,53.4,38.4,23.5,-46,23.01,165.9,136.6
+GRBA,Great Basin National Park,Jan,67,39.5,29.6,19.7,-20,1.3,12.3,6.5
+GRBA,Great Basin National Park,Feb,68,40.6,30.6,20.6,-15,1.49,20.7,7.1
+GRBA,Great Basin National Park,Mar,74,48.3,37.6,27,-2,1.21,7.3,6.7
+GRBA,Great Basin National Park,Apr,81,55.3,43.6,31.9,10,1.57,7.2,6.8
+GRBA,Great Basin National Park,May,91,64.3,52.3,40.2,6,1.25,0.7,7.6
+GRBA,Great Basin National Park,Jun,100,76.2,62.8,49.4,14,1.1,0,4.7
+GRBA,Great Basin National Park,Jul,100,84.6,71.4,58.1,32,0.9,0,7.3
+GRBA,Great Basin National Park,Aug,97,82.8,69.3,55.9,32,1.22,0,7.3
+GRBA,Great Basin National Park,Sep,93,73.4,60.6,47.7,10,1.08,0,5.8
+GRBA,Great Basin National Park,Oct,83,60.1,48.2,36.3,2,1.28,2,5.6
+GRBA,Great Basin National Park,Nov,78,47.5,36.8,26.1,-6,0.86,6.9,5.5
+GRBA,Great Basin National Park,Dec,67,39.6,29.5,19.5,-19,0.99,9.6,6.3
+GRBA,Great Basin National Park,Year,100,59.3,47.7,36,-20,14.25,66.7,77.2
+GRSA,Great Sand Dunes National Park,Jan,67,33.4,22.3,11.3,-25,0.58,8.1,4.9
+GRSA,Great Sand Dunes National Park,Feb,63,38.8,27.5,16.2,-22,0.44,6.2,5.2
+GRSA,Great Sand Dunes National Park,Mar,72,48.5,36.1,23.7,-9,0.88,8.5,5.6
+GRSA,Great Sand Dunes National Park,Apr,78,55.8,42.5,29.2,-6,1.19,7.9,6.1
+GRSA,Great Sand Dunes National Park,May,89,65.9,51.9,37.8,15,1.19,1.7,7.3
+GRSA,Great Sand Dunes National Park,Jun,96,77.4,62.5,47.6,25,0.73,0,5.2
+GRSA,Great Sand Dunes National Park,Jul,94,80.8,66.3,51.7,36,2.1,0,10.2
+GRSA,Great Sand Dunes National Park,Aug,90,78.1,64.1,50,33,1.92,0,11.3
+GRSA,Great Sand Dunes National Park,Sep,87,71.6,57.5,43.5,22,1.31,0,7.1
+GRSA,Great Sand Dunes National Park,Oct,80,59.6,46.2,32.8,0,0.86,2.8,5.4
+GRSA,Great Sand Dunes National Park,Nov,67,45.5,33.6,21.6,-12,0.51,5.6,4
+GRSA,Great Sand Dunes National Park,Dec,60,34.1,23.1,12,-19,0.49,7,5.4
+GRSA,Great Sand Dunes National Park,Year,96,57.5,44.5,31.5,-25,12.2,47.8,77.7
+GRSM,Great Smokey Mountains National Park,Jan,,40.5,31.2,21.9,,7.38,,
+GRSM,Great Smokey Mountains National Park,Feb,,43.9,34.1,24.2,,6.56,,
+GRSM,Great Smokey Mountains National Park,Mar,,51.5,40.5,29.6,,6.69,,
+GRSM,Great Smokey Mountains National Park,Apr,,61.5,49.2,36.9,,5.65,,
+GRSM,Great Smokey Mountains National Park,May,,67.5,56.4,45.3,,6.61,,
+GRSM,Great Smokey Mountains National Park,Jun,,73.3,63.2,53.1,,6.75,,
+GRSM,Great Smokey Mountains National Park,Jul,,75.6,66.2,56.7,,7.17,,
+GRSM,Great Smokey Mountains National Park,Aug,,75.4,65.7,55.9,,5.72,,
+GRSM,Great Smokey Mountains National Park,Sep,,71.4,60.7,50,,6.38,,
+GRSM,Great Smokey Mountains National Park,Oct,,63.8,52.3,40.8,,4.89,,
+GRSM,Great Smokey Mountains National Park,Nov,,52.5,42.3,32.1,,7.6,,
+GRSM,Great Smokey Mountains National Park,Dec,,43.7,34.3,24.9,,6.48,,
+GRSM,Great Smokey Mountains National Park,Year,,60.1,49.7,39.4,,77.88,,
+GUMO,Guadalupe Mountains National Park,Jan,74,53.9,42.7,31.5,1,0.63,0.7,4.1
+GUMO,Guadalupe Mountains National Park,Feb,76,56.2,45.1,34.1,3,0.7,0.4,4.4
+GUMO,Guadalupe Mountains National Park,Mar,83,63.4,51.5,39.5,9,0.54,0,3.8
+GUMO,Guadalupe Mountains National Park,Apr,90,70.7,58.2,45.7,10,0.5,0.2,2.8
+GUMO,Guadalupe Mountains National Park,May,97,78.8,67,55.2,31,0.85,0,5.4
+GUMO,Guadalupe Mountains National Park,Jun,105,87.8,75.7,63.5,43,1.52,0,6.9
+GUMO,Guadalupe Mountains National Park,Jul,103,87.2,75.6,64,50,2.78,0,9.2
+GUMO,Guadalupe Mountains National Park,Aug,99,84.4,73.2,62,49,3.11,0,9.6
+GUMO,Guadalupe Mountains National Park,Sep,96,80.1,69.1,58,32,2.29,0,7.7
+GUMO,Guadalupe Mountains National Park,Oct,90,71.9,60.8,49.7,9,1.34,0.1,6.6
+GUMO,Guadalupe Mountains National Park,Nov,82,61,50.1,39.2,8,0.96,0,3.8
+GUMO,Guadalupe Mountains National Park,Dec,82,53.9,43.5,33.2,0,0.77,1.4,4.7
+GUMO,Guadalupe Mountains National Park,Year,105,70.8,59.4,48,0,15.99,2.8,69
+HALE,Haleakalā National Park,Jan,78,61,52.5,43.9,29,5.14,,9.3
+HALE,Haleakalā National Park,Feb,76,59.7,51.2,42.7,27,4.08,,8.8
+HALE,Haleakalā National Park,Mar,78,59.7,51.4,43.1,30,5.7,,12.9
+HALE,Haleakalā National Park,Apr,79,60.7,52.2,43.8,31,2.75,,12.1
+HALE,Haleakalā National Park,May,78,63.2,54.6,45.9,32,2.44,,9.3
+HALE,Haleakalā National Park,Jun,78,65.6,56.6,47.7,33,1.62,,8.6
+HALE,Haleakalā National Park,Jul,80,65.5,57.2,48.9,32,2.7,,10.7
+HALE,Haleakalā National Park,Aug,78,66.1,57.7,49.4,33,2.17,,10.7
+HALE,Haleakalā National Park,Sep,78,64.7,56.3,47.9,35,2.53,,12.1
+HALE,Haleakalā National Park,Oct,80,64,55.9,47.8,31,3.25,,11.5
+HALE,Haleakalā National Park,Nov,76,63.1,55,47,29,4.59,,12.3
+HALE,Haleakalā National Park,Dec,74,61.1,53.1,45.1,30,5.28,,11.8
+HALE,Haleakalā National Park,Year,80,62.9,54.5,46.1,27,42.25,,130.1
+HAVO,Hawaiʻi Volcanoes National Park,Jan,79,68.3,58.8,49.4,34,8.77,,21.9
+HAVO,Hawaiʻi Volcanoes National Park,Feb,82,68.2,58.7,49.3,35,8.15,,20.4
+HAVO,Hawaiʻi Volcanoes National Park,Mar,80,67.5,59.1,50.7,38,10.27,,25.3
+HAVO,Hawaiʻi Volcanoes National Park,Apr,81,68.3,60.1,51.9,40,9.16,,26.3
+HAVO,Hawaiʻi Volcanoes National Park,May,81,70.5,61.8,53,42,6.46,,25.1
+HAVO,Hawaiʻi Volcanoes National Park,Jun,83,71.3,62.8,54.3,42,5.1,,25.4
+HAVO,Hawaiʻi Volcanoes National Park,Jul,87,72.7,64.1,55.6,45,6.29,,25.8
+HAVO,Hawaiʻi Volcanoes National Park,Aug,84,73.7,64.8,56,41,5.91,,25.3
+HAVO,Hawaiʻi Volcanoes National Park,Sep,85,73.2,64.3,55.4,45,5.98,,23.9
+HAVO,Hawaiʻi Volcanoes National Park,Oct,81,72.4,63.7,55.1,45,8.19,,24.5
+HAVO,Hawaiʻi Volcanoes National Park,Nov,80,70.3,62.1,54,41,10.59,,26.3
+HAVO,Hawaiʻi Volcanoes National Park,Dec,81,68.2,59.9,51.7,35,11.37,,25
+HAVO,Hawaiʻi Volcanoes National Park,Year,87,70.4,61.7,53,34,96.24,,295.2
+HOSP,Hot Springs National Park,Jan,,51.4,40.7,29.9,,3.56,,
+HOSP,Hot Springs National Park,Feb,,56.2,44.6,33,,4.13,,
+HOSP,Hot Springs National Park,Mar,,64.7,52.6,40.5,,5.18,,
+HOSP,Hot Springs National Park,Apr,,73.6,61.3,48.9,,5.01,,
+HOSP,Hot Springs National Park,May,,80.5,69.5,58.4,,5.86,,
+HOSP,Hot Springs National Park,Jun,,88.2,77.1,66,,4.4,,
+HOSP,Hot Springs National Park,Jul,,92.9,81.3,69.7,,4.4,,
+HOSP,Hot Springs National Park,Aug,,93.3,80.9,68.5,,2.81,,
+HOSP,Hot Springs National Park,Sep,,85.7,73.3,60.9,,3.78,,
+HOSP,Hot Springs National Park,Oct,,74.8,62.4,50,,5.31,,
+HOSP,Hot Springs National Park,Nov,,62.9,51.7,40.6,,5.45,,
+HOSP,Hot Springs National Park,Dec,,52.5,42.1,31.7,,5.14,,
+HOSP,Hot Springs National Park,Year,,73.1,61.5,49.9,,55.03,,
+INDU,Indiana Dunes National Park,Jan,66,32.1,24.9,17.8,-22,2.21,16,12.6
+INDU,Indiana Dunes National Park,Feb,72,35.5,28.3,21.1,-15,1.97,9.7,9
+INDU,Indiana Dunes National Park,Mar,85,45.6,37.7,29.8,-4,2.34,6,10.9
+INDU,Indiana Dunes National Park,Apr,88,57.2,48.4,39.5,18,3.55,0.6,11.3
+INDU,Indiana Dunes National Park,May,95,68.4,59,49.6,31,4.27,0,12.3
+INDU,Indiana Dunes National Park,Jun,98,77.5,68.5,59.5,37,4.31,0,11.7
+INDU,Indiana Dunes National Park,Jul,102,81.6,73,64.3,45,3.98,0,9.7
+INDU,Indiana Dunes National Park,Aug,98,80,71.6,63.1,46,4.08,0,9.9
+INDU,Indiana Dunes National Park,Sep,96,74.3,65.3,56.3,35,3.65,0,9.6
+INDU,Indiana Dunes National Park,Oct,89,62.3,53.5,44.7,25,3.75,0,11.5
+INDU,Indiana Dunes National Park,Nov,77,48.7,41.5,34.2,9,2.76,0.7,10.6
+INDU,Indiana Dunes National Park,Dec,69,37.4,30.8,24.1,-19,2.29,7.3,11.9
+INDU,Indiana Dunes National Park,Year,102,58.4,50.2,42,-22,39.16,40.3,131
+ISRO,Isle Royale National Park,Jan,,17.6,8.4,-0.8,,1.97,,
+ISRO,Isle Royale National Park,Feb,,24,13.6,3.3,,1.18,,
+ISRO,Isle Royale National Park,Mar,,35.2,24.2,13.2,,1.62,,
+ISRO,Isle Royale National Park,Apr,,45.9,35.9,25.8,,2.14,,
+ISRO,Isle Royale National Park,May,,57.9,46.8,35.7,,2.8,,
+ISRO,Isle Royale National Park,Jun,,66.1,56,46,,3.15,,
+ISRO,Isle Royale National Park,Jul,,72.1,61.7,51.4,,3.26,,
+ISRO,Isle Royale National Park,Aug,,71.8,61.2,50.6,,3.02,,
+ISRO,Isle Royale National Park,Sep,,63,53.4,43.7,,3.17,,
+ISRO,Isle Royale National Park,Oct,,49.2,41.1,33,,3.22,,
+ISRO,Isle Royale National Park,Nov,,34.9,28.1,21.2,,2.39,,
+ISRO,Isle Royale National Park,Dec,,22.5,14.9,7.3,,2.03,,
+ISRO,Isle Royale National Park,Year,,46.8,37.2,27.6,,29.95,,
+JOTR,Joshua Tree National Park,Jan,,59.2,47.2,35.1,,0.88,,
+JOTR,Joshua Tree National Park,Feb,,61.1,48.9,36.7,,0.84,,
+JOTR,Joshua Tree National Park,Mar,,66.4,53.3,40.3,,0.66,,
+JOTR,Joshua Tree National Park,Apr,,75.3,59.9,44.6,,0.19,,
+JOTR,Joshua Tree National Park,May,,84.3,68.2,52.1,,0.07,,
+JOTR,Joshua Tree National Park,Jun,,92.8,76.4,60,,0.01,,
+JOTR,Joshua Tree National Park,Jul,,97.7,82.4,67,,0.32,,
+JOTR,Joshua Tree National Park,Aug,,96.7,81.7,66.8,,0.82,,
+JOTR,Joshua Tree National Park,Sep,,91.3,75.7,60.1,,0.26,,
+JOTR,Joshua Tree National Park,Oct,,80,64.7,49.4,,0.3,,
+JOTR,Joshua Tree National Park,Nov,,67.2,53.7,40.1,,0.32,,
+JOTR,Joshua Tree National Park,Dec,,58.6,46.5,34.5,,0.78,,
+JOTR,Joshua Tree National Park,Year,,77.6,63.3,49,,5.45,,
+KEFJ,Kenai Fjords National Park,Jan,50,25.4,16.4,7.4,-42,7.16,34.4,
+KEFJ,Kenai Fjords National Park,Feb,52,31.4,21.3,11.2,-34,6.02,30.3,
+KEFJ,Kenai Fjords National Park,Mar,55,37.9,25.8,13.7,-24,4.62,27.9,
+KEFJ,Kenai Fjords National Park,Apr,66,46.1,35,24,-17,3.97,6.5,
+KEFJ,Kenai Fjords National Park,May,81,56.8,44,31.2,15,3.3,0.3,
+KEFJ,Kenai Fjords National Park,Jun,88,64.7,51.4,38,22,2.53,0,
+KEFJ,Kenai Fjords National Park,Jul,86,67.3,55.1,42.9,30,2.92,0,
+KEFJ,Kenai Fjords National Park,Aug,81,65,52.6,40.2,19,6.65,0,
+KEFJ,Kenai Fjords National Park,Sep,76,56.6,45.6,34.6,9,9.58,,
+KEFJ,Kenai Fjords National Park,Oct,61,44.8,35.1,25.3,-10,10.48,7,
+KEFJ,Kenai Fjords National Park,Nov,50,31.6,23.1,14.7,-18,5.58,22.4,
+KEFJ,Kenai Fjords National Park,Dec,47,27.3,18.7,10.1,-22,8.43,43.1,
+KEFJ,Kenai Fjords National Park,Year,88,46.2,35.3,24.5,-42,71.24,171.9,
+KICA,Kings Canyon National Park,Jan,67,46.2,35.9,25.7,-6,8.03,37.7,8.7
+KICA,Kings Canyon National Park,Feb,69,46,35.5,25,-4,7.33,44.8,10.5
+KICA,Kings Canyon National Park,Mar,69,48.3,37.8,27.2,0,7.81,35.1,9.5
+KICA,Kings Canyon National Park,Apr,75,51.8,41,30.2,6,3.58,20,7.5
+KICA,Kings Canyon National Park,May,83,59.8,48.7,37.6,13,1.37,4.9,4.6
+KICA,Kings Canyon National Park,Jun,90,70.7,58.2,45.7,22,0.53,0.6,1.9
+KICA,Kings Canyon National Park,Jul,91,78.8,65.6,52.5,32,0.27,0,1.2
+KICA,Kings Canyon National Park,Aug,90,78.5,65.4,52.3,27,0.16,0,0.9
+KICA,Kings Canyon National Park,Sep,89,72.7,60.1,47.4,21,0.32,0,1.8
+KICA,Kings Canyon National Park,Oct,82,62.6,50.7,38.8,11,2.37,3.5,3.7
+KICA,Kings Canyon National Park,Nov,75,52.5,42.2,31.9,8,3.26,8.6,5.7
+KICA,Kings Canyon National Park,Dec,70,45.5,35.4,25.4,-4,6.63,30.8,8.2
+KICA,Kings Canyon National Park,Year,91,59.4,48,36.6,-6,41.66,186,64.2
+MACA,Mammoth Cave National Park,Jan,80,47.9,38.6,29.3,-20,3.73,0.7,11.5
+MACA,Mammoth Cave National Park,Feb,82,53.2,42.7,32.2,-21,4.47,1.4,10.8
+MACA,Mammoth Cave National Park,Mar,86,62.3,50.9,39.5,-6,5.01,0.6,12.9
+MACA,Mammoth Cave National Park,Apr,91,73.4,60.7,48,18,4.92,0,11.9
+MACA,Mammoth Cave National Park,May,96,81.2,69,56.8,27,5.16,0,12.1
+MACA,Mammoth Cave National Park,Jun,108,88,76.2,64.4,32,4.84,0,11.9
+MACA,Mammoth Cave National Park,Jul,108,91,79.6,68.3,40,4.93,0,10.7
+MACA,Mammoth Cave National Park,Aug,105,90.2,78.5,66.7,37,3.82,0,9.1
+MACA,Mammoth Cave National Park,Sep,106,85,72.5,60,29,3.95,0,7.9
+MACA,Mammoth Cave National Park,Oct,99,74,61.6,49.1,18,3.79,0,9
+MACA,Mammoth Cave National Park,Nov,93,61.2,50.5,39.7,-8,4.09,0,9.5
+MACA,Mammoth Cave National Park,Dec,80,51,42,33,-18,4.78,1.3,11.5
+MACA,Mammoth Cave National Park,Year,108,71.5,60.2,48.9,-21,53.49,4,128.8
+MEVE,Mesa Verde National Park,Jan,62,39.6,29.8,20,-20,1.96,18.1,7.4
+MEVE,Mesa Verde National Park,Feb,68,42.7,33,23.3,-15,1.66,12,8.1
+MEVE,Mesa Verde National Park,Mar,73,51.2,40.4,29.6,2,1.38,8,6.5
+MEVE,Mesa Verde National Park,Apr,84,59.3,46.8,34.4,4,1.14,5,5.9
+MEVE,Mesa Verde National Park,May,94,69.2,55.9,42.6,11,1.13,0.6,6.7
+MEVE,Mesa Verde National Park,Jun,101,81.3,66.8,52.3,27,0.47,0,3.3
+MEVE,Mesa Verde National Park,Jul,102,86.4,72.5,58.6,38,1.41,0,9
+MEVE,Mesa Verde National Park,Aug,101,83.5,70.3,57,38,2.05,0,10.5
+MEVE,Mesa Verde National Park,Sep,94,76,63,50,26,1.78,0,7.5
+MEVE,Mesa Verde National Park,Oct,85,63.3,50.9,38.6,5,1.44,1.5,6.4
+MEVE,Mesa Verde National Park,Nov,75,50.4,39.6,28.8,-3,1.19,5.6,5.6
+MEVE,Mesa Verde National Park,Dec,65,39.9,30.2,20.4,-15,1.51,14.2,7.6
+MEVE,Mesa Verde National Park,Year,102,61.9,49.9,38,-20,17.11,65,84.5
+MORA,Mount Rainier National Park,Jan,63,37.2,31.6,25.9,-9,11.45,32.7,20.8
+MORA,Mount Rainier National Park,Feb,69,40.2,33,25.9,-5,8.6,19.2,17.3
+MORA,Mount Rainier National Park,Mar,73,44.6,36.2,27.7,-1,7.55,25.4,20.2
+MORA,Mount Rainier National Park,Apr,87,50.5,40.6,30.8,12,5.93,9.7,18.5
+MORA,Mount Rainier National Park,May,95,59.9,48.4,36.8,21,4.75,2.1,16.7
+MORA,Mount Rainier National Park,Jun,99,65.9,53.7,41.5,27,3.7,0.1,14.3
+MORA,Mount Rainier National Park,Jul,105,75.3,60.8,46.3,32,1.22,0,6.8
+MORA,Mount Rainier National Park,Aug,101,75.6,60.9,46.1,33,1.49,0,6.5
+MORA,Mount Rainier National Park,Sep,101,68.6,55.1,41.6,24,3.5,0,9.9
+MORA,Mount Rainier National Park,Oct,88,54.5,44.8,35.2,15,9,0.9,17
+MORA,Mount Rainier National Park,Nov,72,42.5,35.9,29.3,3,12.96,18.6,20.1
+MORA,Mount Rainier National Park,Dec,60,36.4,30.8,25.1,-6,12.42,34.3,20.2
+MORA,Mount Rainier National Park,Year,105,54.3,44.3,34.4,-9,82.57,143,188.3
+NOCA,North Cascades National Park,Jan,,40.9,36.2,31.5,,9.75,,
+NOCA,North Cascades National Park,Feb,,44.8,38.2,31.5,,6.15,,
+NOCA,North Cascades National Park,Mar,,51,42.8,34.6,,5.6,,
+NOCA,North Cascades National Park,Apr,,57.8,48.1,38.5,,4,,
+NOCA,North Cascades National Park,May,,65.3,54.6,44,,2.78,,
+NOCA,North Cascades National Park,Jun,,69.9,59.6,49.2,,2.59,,
+NOCA,North Cascades National Park,Jul,,76.7,64.6,52.5,,1.41,,
+NOCA,North Cascades National Park,Aug,,77.3,65,52.8,,1.37,,
+NOCA,North Cascades National Park,Sep,,70.4,59.2,47.9,,2.79,,
+NOCA,North Cascades National Park,Oct,,57.2,49.4,41.5,,7.66,,
+NOCA,North Cascades National Park,Nov,,45.9,40.8,35.7,,10.49,,
+NOCA,North Cascades National Park,Dec,,39.6,35.3,31,,8.24,,
+NOCA,North Cascades National Park,Year,,58.1,49.5,40.9,,62.83,,
+OLYM,Olympic National Park,Jan,64,40.7,,31.1,2,9.02,7.1,
+OLYM,Olympic National Park,Feb,67,44.9,,32.3,8,6.9,2,
+OLYM,Olympic National Park,Mar,69,50.3,,34.1,15,6.02,1.2,
+OLYM,Olympic National Park,Apr,78,56.9,,37.3,26,3.27,0,
+OLYM,Olympic National Park,May,87,63.5,,42,29,1.84,0,
+OLYM,Olympic National Park,Jun,93,68.1,,46.6,32,1.2,0,
+OLYM,Olympic National Park,Jul,96,73.8,,49.9,36,0.75,0,
+OLYM,Olympic National Park,Aug,97,74.1,,50.9,36,1.21,0,
+OLYM,Olympic National Park,Sep,91,68.5,,47.5,32,1.77,0,
+OLYM,Olympic National Park,Oct,76,56.9,,41.1,21,5.27,0,
+OLYM,Olympic National Park,Nov,70,46.4,,35.7,10,9.17,1.1,
+OLYM,Olympic National Park,Dec,65,42,,32.7,8,9.88,3.1,
+OLYM,Olympic National Park,Year,97,57.2,,40.1,2,56.3,14.5,
+PEFO,Petrified Forest National Park,Jan,67,47.6,35,22.3,-7,0.93,0.7,4.3
+PEFO,Petrified Forest National Park,Feb,73,52.5,38.9,25.3,-5,0.65,0.1,4.3
+PEFO,Petrified Forest National Park,Mar,84,60.7,45.4,30.1,8,0.7,0.2,4.3
+PEFO,Petrified Forest National Park,Apr,89,68.4,51.7,35,16,0.39,0.2,3.1
+PEFO,Petrified Forest National Park,May,101,77.6,60.6,43.6,24,0.46,0,3.3
+PEFO,Petrified Forest National Park,Jun,103,88.6,70.8,52.9,31,0.26,0,2.1
+PEFO,Petrified Forest National Park,Jul,104,91.5,75.5,59.6,38,1.36,0,8
+PEFO,Petrified Forest National Park,Aug,101,88.4,73.3,58.3,46,1.74,0,8.6
+PEFO,Petrified Forest National Park,Sep,100,82,66.6,51.3,30,1.12,0,5.6
+PEFO,Petrified Forest National Park,Oct,90,70.5,55.2,39.9,11,0.96,0,4.8
+PEFO,Petrified Forest National Park,Nov,79,58.2,43.1,28.1,-3,0.62,0.3,4.2
+PEFO,Petrified Forest National Park,Dec,68,46.5,34,21.5,2,0.76,0.1,5
+PEFO,Petrified Forest National Park,Year,104,69.4,54.2,39,-7,9.95,1.6,57.6
+PINN,Pinnacles National Park,Jan,87,62.6,48.3,34,10,3.46,0.1,12.2
+PINN,Pinnacles National Park,Feb,86,63.7,49.6,35.6,17,3.45,0,11.2
+PINN,Pinnacles National Park,Mar,93,67.5,52.6,37.7,16,2.8,0,10.1
+PINN,Pinnacles National Park,Apr,100,72.3,55.8,39.4,18,0.96,0,5.7
+PINN,Pinnacles National Park,May,106,80,61.5,43.1,22,0.57,0,3.3
+PINN,Pinnacles National Park,Jun,112,88.8,67.7,46.6,24,0.13,0,0.7
+PINN,Pinnacles National Park,Jul,116,95.9,73.2,50.4,30,0.04,0,0.3
+PINN,Pinnacles National Park,Aug,115,95.8,73,50.3,28,0.02,0,0.3
+PINN,Pinnacles National Park,Sep,116,91.7,69.9,48.1,29,0.06,0,0.6
+PINN,Pinnacles National Park,Oct,116,82.5,62.6,42.7,24,0.73,0,2.9
+PINN,Pinnacles National Park,Nov,94,70.4,53.5,36.7,15,1.27,0,7.2
+PINN,Pinnacles National Park,Dec,90,62,47.7,33.4,10,3.08,0,12
+PINN,Pinnacles National Park,Year,116,77.8,59.6,41.5,10,16.57,0.1,66.5
+REDW,Redwood National Park,Jan,75,53.4,,35.8,18,12.18,0.4,17.6
+REDW,Redwood National Park,Feb,80,55,,36.5,19,10.65,0.4,15.7
+REDW,Redwood National Park,Mar,81,56,,38.1,24,10.31,0.1,17.1
+REDW,Redwood National Park,Apr,86,56.9,,39.9,27,6.27,0,14
+REDW,Redwood National Park,May,91,60.7,,44,24,3.94,0,9
+REDW,Redwood National Park,Jun,98,63.4,,47.6,33,2,0,5.3
+REDW,Redwood National Park,Jul,89,65,,50.4,34,0.37,0,1.9
+REDW,Redwood National Park,Aug,93,65.1,,50.8,36,0.53,0,2
+REDW,Redwood National Park,Sep,95,65.2,,47.4,24,1.21,0,3.8
+REDW,Redwood National Park,Oct,90,62.6,,42.9,28,5,0,7.7
+REDW,Redwood National Park,Nov,78,56.6,,38.8,22,11.42,0,16.3
+REDW,Redwood National Park,Dec,72,52.7,,35.5,16,15.72,0.1,17.4
+REDW,Redwood National Park,Year,98,59.4,,42.3,16,79.6,1.1,127.8
+SAGU,Saguaro National Park,Jan,,66.2,53.1,39.9,,0.97,,
+SAGU,Saguaro National Park,Feb,,69.1,55.7,42.3,,0.92,,
+SAGU,Saguaro National Park,Mar,,74.8,60.5,46.2,,0.9,,
+SAGU,Saguaro National Park,Apr,,83.1,67.5,51.9,,0.34,,
+SAGU,Saguaro National Park,May,,92.4,76.2,60,,0.19,,
+SAGU,Saguaro National Park,Jun,,101.1,85.1,69.1,,0.3,,
+SAGU,Saguaro National Park,Jul,,101,87.8,74.5,,1.99,,
+SAGU,Saguaro National Park,Aug,,98.6,85.9,73.3,,2.51,,
+SAGU,Saguaro National Park,Sep,,96.1,82.4,68.7,,1.09,,
+SAGU,Saguaro National Park,Oct,,86.4,72,57.6,,0.94,,
+SAGU,Saguaro National Park,Nov,,74.6,60.6,46.7,,0.58,,
+SAGU,Saguaro National Park,Dec,,65.4,52.3,39.1,,1,,
+SAGU,Saguaro National Park,Year,,84.1,70,55.8,,11.73,,
+SHEN,Shenandoah National Park,Jan,68,36.1,,18.4,-29,3.56,10.5,
+SHEN,Shenandoah National Park,Feb,66,38.3,,19.7,-14,3.06,9.5,
+SHEN,Shenandoah National Park,Mar,78,45.9,,26.3,-6,4.06,8.4,
+SHEN,Shenandoah National Park,Apr,87,56.9,,35.7,7,4.03,1.7,
+SHEN,Shenandoah National Park,May,89,65.5,,45.5,18,4.73,0,
+SHEN,Shenandoah National Park,Jun,88,72.3,,53.4,31,4.71,0,
+SHEN,Shenandoah National Park,Jul,95,75.4,,57.2,34,4.54,0,
+SHEN,Shenandoah National Park,Aug,92,74.1,,55.9,31,4.88,0,
+SHEN,Shenandoah National Park,Sep,90,68.1,,49.8,25,5.12,0,
+SHEN,Shenandoah National Park,Oct,84,58.7,,39.8,12,4.86,0.7,
+SHEN,Shenandoah National Park,Nov,75,48,,30.4,-1,4.35,3.6,
+SHEN,Shenandoah National Park,Dec,68,38.9,,21.4,-15,3.61,6.6,
+SHEN,Shenandoah National Park,Year,95,56.5,,37.8,-29,51.51,41,
+VOYA,Voyageurs National Park,Jan,47,15.7,3.9,-7.8,-50,1.05,16.4,8
+VOYA,Voyageurs National Park,Feb,58,21.2,7.9,-5.4,-50,0.72,13.4,7
+VOYA,Voyageurs National Park,Mar,78,34.9,22.3,9.7,-33,0.97,9.6,5.7
+VOYA,Voyageurs National Park,Apr,83,49.3,36.3,23.3,-6,1.77,6.2,6.7
+VOYA,Voyageurs National Park,May,91,63.6,50.1,36.6,19,3.26,0.1,11.8
+VOYA,Voyageurs National Park,Jun,98,73.3,60.5,47.7,28,4.65,0,13
+VOYA,Voyageurs National Park,Jul,95,77.5,64.7,51.8,36,4.22,0,11.5
+VOYA,Voyageurs National Park,Aug,95,75.9,62.6,49.3,30,3.05,0,10
+VOYA,Voyageurs National Park,Sep,91,66.4,54.1,41.8,22,4.07,,12
+VOYA,Voyageurs National Park,Oct,88,51.1,41,30.9,9,2.33,1.1,10.6
+VOYA,Voyageurs National Park,Nov,72,34.1,25.7,17.3,-21,1.79,12.8,8
+VOYA,Voyageurs National Park,Dec,47,20.8,11.6,2.4,-40,1.11,16.7,8.8
+VOYA,Voyageurs National Park,Year,98,48.7,36.7,24.8,-50,28.99,76.2,113.1
+WHSA,White Sands National Park,Jan,78,57,39.7,22.4,-25,0.5,0.8,3.3
+WHSA,White Sands National Park,Feb,85,63,44.9,26.7,-14,0.38,0,2.7
+WHSA,White Sands National Park,Mar,91,71.1,52.2,33.4,0,0.24,0,2.2
+WHSA,White Sands National Park,Apr,97,79,59.9,40.9,11,0.3,0,1.9
+WHSA,White Sands National Park,May,104,88,69.2,50.4,20,0.45,0,2.4
+WHSA,White Sands National Park,Jun,111,97.3,78.8,60.4,36,0.72,0,3.3
+WHSA,White Sands National Park,Jul,110,97,81.2,65.4,48,1.64,0,6.9
+WHSA,White Sands National Park,Aug,110,94.8,79.2,63.5,45,1.88,0,6.8
+WHSA,White Sands National Park,Sep,104,88.8,72.5,56.2,30,1.46,0,4.9
+WHSA,White Sands National Park,Oct,97,79.3,60.8,42.4,13,1.05,0.1,4
+WHSA,White Sands National Park,Nov,88,66.6,48,29.4,-12,0.45,0,2.4
+WHSA,White Sands National Park,Dec,84,56.5,39.4,22.3,-8,0.74,0.7,2.8
+WHSA,White Sands National Park,Year,111,78.2,60.5,42.8,-25,9.81,1.6,43.6
+WICA,Wind Cave National Park,Jan,69,39.7,27.2,14.8,-21,0.45,6.3,4.5
+WICA,Wind Cave National Park,Feb,69,40.7,28.1,15.5,-32,0.7,7.1,5.8
+WICA,Wind Cave National Park,Mar,77,50,36.8,23.7,-20,1.07,9.6,6
+WICA,Wind Cave National Park,Apr,89,57.7,44.3,30.9,1,2.32,7.8,9.4
+WICA,Wind Cave National Park,May,92,66.4,53.7,40.9,15,3.74,0.9,11.2
+WICA,Wind Cave National Park,Jun,102,77.4,63.8,50.1,30,3.29,0,11.4
+WICA,Wind Cave National Park,Jul,105,84.7,70.7,56.6,38,3.01,0,9.7
+WICA,Wind Cave National Park,Aug,101,83.6,69.2,54.9,31,2.3,0,8.5
+WICA,Wind Cave National Park,Sep,103,76.2,61.2,46.2,23,1.53,0.2,6.3
+WICA,Wind Cave National Park,Oct,89,61.4,47.7,34,-2,1.55,2.1,7
+WICA,Wind Cave National Park,Nov,76,48.4,35.9,23.4,-15,0.71,4.4,4.1
+WICA,Wind Cave National Park,Dec,66,39.4,27.4,15.4,-27,0.53,7.5,3.8
+WICA,Wind Cave National Park,Year,105,60.5,47.2,33.9,-32,21.2,45.9,87.7
+WRST,Wrangell–St. Elias National Park,Jan,44,6,-1.6,-9.1,-55,0.93,13.2,8.7
+WRST,Wrangell–St. Elias National Park,Feb,54,20.7,9.7,-1.3,-49,1.11,7.9,7.1
+WRST,Wrangell–St. Elias National Park,Mar,56,32.9,18.2,3.5,-41,0.4,5.4,4.7
+WRST,Wrangell–St. Elias National Park,Apr,71,47.7,34.6,21.6,-21,0.31,2.5,2.8
+WRST,Wrangell–St. Elias National Park,May,86,62.2,46.6,30.9,-1,0.93,0.6,7
+WRST,Wrangell–St. Elias National Park,Jun,90,69.7,54.3,38.9,24,1.63,0,11.3
+WRST,Wrangell–St. Elias National Park,Jul,90,71.4,57.3,43.3,28,2.45,0,14
+WRST,Wrangell–St. Elias National Park,Aug,86,66.8,53.5,40.2,18,2.65,0,16.4
+WRST,Wrangell–St. Elias National Park,Sep,72,55.5,44.3,33.1,6,2.56,2.7,15.4
+WRST,Wrangell–St. Elias National Park,Oct,75,38.6,29.4,20.2,-22,2.22,9.4,11.2
+WRST,Wrangell–St. Elias National Park,Nov,58,17.3,9.7,2,-46,1.45,13.5,10.1
+WRST,Wrangell–St. Elias National Park,Dec,56,9.2,2.3,-4.5,-50,1.06,11.3,9.3
+WRST,Wrangell–St. Elias National Park,Year,90,41.5,29.9,18.2,-55,17.7,66.5,118
+ZION,Zion National Park,Jan,74,53.8,42.1,30.4,-15,1.99,0.7,7.1
+ZION,Zion National Park,Feb,97,57.6,45.6,33.6,0,2.06,0.8,7.9
+ZION,Zion National Park,Mar,91,66.1,52.4,38.7,10,2.01,0.7,7.4
+ZION,Zion National Park,Apr,97,73.1,58.4,43.8,21,1.22,0,5.7
+ZION,Zion National Park,May,106,83.5,68,52.5,22,0.77,0,4.5
+ZION,Zion National Park,Jun,114,95.3,78.8,62.2,35,0.23,0,2
+ZION,Zion National Park,Jul,115,100.3,84.9,69.5,41,1.15,0,4.8
+ZION,Zion National Park,Aug,112,98,83.3,68.7,37,1.63,0,6
+ZION,Zion National Park,Sep,110,90.7,76,61.3,33,1.17,0,4.4
+ZION,Zion National Park,Oct,99,78.1,63.4,48.8,13,1.22,0,4.8
+ZION,Zion National Park,Nov,90,63.9,50.6,37.3,0,1.18,0.1,4.4
+ZION,Zion National Park,Dec,81,52.5,40.9,29.3,-5,1.64,1.7,6.5
+ZION,Zion National Park,Year,115,76.1,62,48,-15,16.27,4,65.5

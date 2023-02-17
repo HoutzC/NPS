@@ -1,0 +1,62 @@
+,Park Code,National Park,Closest Airport,FAA Code,Distance
+0,ACAD,Acadia National Park,Bangor International Airport,BGR,44 mi
+1,ARCH,Arches National Park,Provo-Utah Lake International Airport,PVU,156 mi
+2,BADL,Badlands National Park,Casper-Natrona County International Airport,CPR,207 mi
+3,BIBE,Big Bend National Park,Midland International Airport,MAF,196 mi
+4,BICY,Big Cypress National Preserve,Miami International Airport,MIA,46 mi
+5,BISC,Biscayne National Park,Miami International Airport,MIA,16 mi
+6,BLCA,Black Canyon of the Gunnison National Park,Denver International Airport,DEN,186 mi
+7,BRCA,Bryce Canyon National Park,Saint George-Southwest Utah International Airport,SGU,84 mi
+8,CANY,Canyonlands National Park,Provo-Utah Lake International Airport,PVU,176 mi
+9,CARE,Capitol Reef National Park,Provo-Utah Lake International Airport,PVU,143 mi
+10,CAVE,Carlsbad Caverns National Park,El Paso International Airport,ELP,116 mi
+11,CHIS,Channel Islands National Park,Los Angeles International Airport,LAX,58 mi
+12,CONG,Congaree National Park,Charleston International Airport,CHS,75 mi
+13,CRLA,Crater Lake National Park,Rogue Valley International Medford Airport,MFR,52 mi
+14,CUVA,Cuyahoga Valley National Park,Cleveland Hopkins International Airport,CLE,19 mi
+15,DEVA,Death Valley National Park,Harry Reid International Airport,LAS,94 mi
+16,DENA,Denali National Park,Fairbanks International Airport,FAI,130 mi
+17,DRTO,Dry Tortugas National Park,Key West International Airport,EYW,70 mi
+18,EVER,Everglades National Park,Miami International Airport,MIA,52 mi
+19,GAAR,Gates of the Arctic National Park,Fairbanks International Airport,FAI,254 mi
+20,JEFF,Gateway Arch National Park,St. Louis Lambert International Airport,STL,13 mi
+21,GLBA,Glacier Bay National Park,Juneau International Airport,JNU,88 mi
+22,GLAC,Glacier National Park,Glacier Park International Airport,FCA,48 mi
+23,GRCA,Grand Canyon National Park,Flagstaff Pulliam International Airport,FLG,68 mi
+24,GRTE,Grand Teton National Park,Bozeman Yellowstone International Airport,BZN,136 mi
+25,GRBA,Great Basin National Park,Saint George-Southwest Utah International Airport,SGU,141 mi
+26,GRSA,Great Sand Dunes National Park,Denver International Airport,DEN,154 mi
+27,GRSM,Great Smoky Mountains National Park,Greenville Spartanburg International Airport,GSP,92 mi
+28,GUMO,Guadalupe Mountains National Park,El Paso International Airport,ELP,89 mi
+29,HALE,Haleakalā National Park,Ellison Onizuka Kona International Airport at Keahole,KOA,68 mi
+30,HAVO,Hawai’i Volcanoes National Park,Hilo International Airport,ITO,25 mi
+31,HOSP,Hot Springs National Park,Memphis International Airport,MEM,178 mi
+32,INDU,Indiana Dunes National Park,Midway International Airport,MDW,35 mi
+33,ISRO,Isle Royale National Park,Duluth International Airport,DLH,191 mi
+34,JOTR,Joshua Tree National Park,Palm Springs International Airport,PSP,35 mi
+35,KATM,Katmai National Park,Ted Stevens Anchorage International Airport,ANC,253 mi
+36,KEFJ,Kenai Fjords National Park,Ted Stevens Anchorage International Airport,ANC,87 mi
+37,KICA,Kings Canyon National Park,Fresno Yosemite International Airport,FAT,58 mi
+38,KOVA,Kobuk Valley National Park,Fairbanks International Airport,FAI,370 mi
+39,LACL,Lake Clark National Park,Ted Stevens Anchorage International Airport,ANC,115 mi
+40,LAVO,Lassen Volcanic National Park,Reno–Tahoe International Airport,RNO,114 mi
+41,MACA,Mammoth Cave National Park,Louisville Muhammad Ali International Airport,SDF,71 mi
+42,MEVE,Mesa Verde National Park,Albuquerque International Sunport,ABQ,181 mi
+43,MORA,Mount Rainier National Park,Seattle–Tacoma International Airport,SEA,49 mi
+44,NERI,New River Gorge National Park,Piedmont Triad International Airport,GSO,143 mi
+45,NOCA,North Cascades National Park,Abbotsford International Airport,YXX,91 mi
+46,OLYM,Olympic National Park,William R Fairchild International Airport,CLM,10 mi
+47,PEFO,Petrified Forest National Park,Flagstaff Pulliam International Airport,FLG,105 mi
+48,PINN,Pinnacles National Park,Norman Y. Mineta San José International Airport,SJC,74 mi
+49,REDW,Redwood National Park,Rogue Valley International Medford Airport,MFR,94 mi
+50,ROMO,Rocky Mountain National Park,Denver International Airport,DEN,64 mi
+51,SAGU,Saguaro National Park,Tuscon International Airport,TUS,27 mi
+52,SHEN,Shenandoah National Park,Washington Dulles International Airport,IAD,56 mi
+53,THRO,Theodore Roosevelt National Park,Williston Basin International Airport,XWA,90 mi
+54,VOYA,Voyageurs National Park,Falls International Airport,INL,19 mi
+55,WHSA,White Sands National Park,El Paso International Airport,ELP,68 mi
+56,WICA,Wind Cave National Park,Casper-Natrona County International Airport,CPR,157 mi
+57,WRST,Wrangell-St. Elias National Park,Whitehorse / Erik Nielsen International Airport,YXY,234 mi
+58,YELL,Yellowstone National Park,Bozeman Yellowstone International Airport,BZN,87 mi
+59,YOSE,Yosemite National Park,Fresno Yosemite International Airport,FAT,67 mi
+60,ZION,Zion National Park,Saint George-Southwest Utah International Airport,SGU,31 mi
