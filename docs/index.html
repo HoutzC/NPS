@@ -1,0 +1,194 @@
+<!DOCTYPE HTML>
+<html>
+	<div class="navbar">
+		<a href="#OVERVIEW" class="navbutton smooth-scroll-middle">OVERVIEW</a>
+		<a href="#PURPOSE" class="navbutton smooth-scroll-middle">PURPOSE</a>
+		<a href="#ARCHITECTURE" class="navbutton smooth-scroll-middle">ARCHITECTURE</a>
+		<a href="#ANALYSIS" class="navbutton smooth-scroll-middle">USER ANALYSIS</a>
+		<a href="#DASHBOARD" class="navbutton smooth-scroll-middle">DASHBOARD</a>
+		<a href="#CONNECT" class="navbutton smooth-scroll-middle">CONNECT</a>
+		<p class ="NPS">NPS<b class="Discover">DISCOVER</b></p>
+	  </div>
+	<head>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
+			
+			<div id="wrapper" class="divided">
+				
+				<!-- One -->
+					<section class="banner style2 orient-center content-align-center image-position-center fullscreen onload-image-fade-right onload-content-fade-right" id="OVERVIEW">
+						<div class="content">
+							<p class="majortitle">NPS Discover</p>
+							<p class="major">A fully automated ETL pipeline that extracts data from various data sources, transforms the data, and visualizes visitation and economic trends of national park resources</a>.</p>
+							<ul class="actions stacked">
+								<li><a href="#PURPOSE" class="button white big wide smooth-scroll-middle">Learn More</a></li>
+							</ul>
+						</div>
+						<div class="image">
+							<img src="images/banner3.jpg" alt=""/>
+						</div>
+					</section>
+
+				<!-- Two -->
+					<section class="spotlight style2 orient-right content-align-left image-position-center onscroll-image-fade-left onscroll-content-fade-left" id="PURPOSE">
+						<div class="content">
+							<h2>Purpose</h2>
+							<p>The National Park Service is primarily funded by Congress through the annual appropriations cycle, mandatory funds, user fees, and private philanthropy. With the large majority of NPS funding coming from federal dollars, it has become increasingly important to the protection of the NPS budget to communicate the positive return on that funding.</p>
+
+							</p>As this is an exhibition, the project was intentionally designed to be overly complex by incorporating a variety of tools and expertise that may not necessarily be required.</p>
+							<ul class="actions stacked">
+								<li><a href="#ARCHITECTURE" class="button big wide smooth-scroll-middle">ARCHITECTURE</a></li>
+							</ul>
+						</div>
+						<div class="image">
+							<img src="images/spotlight01.jpg" alt="" />
+						</div>
+					</section>
+
+				<!-- Three -->
+					<section class="spotlight style1 orient-left content-align-left image-position-center onscroll-image-fade-right onscroll-content-fade-right" id="ARCHITECTURE">
+						<div class="content">
+							<P><h2>Architecture</h2>
+								<OL>
+								<Li>Windows Task Scheduler is set to run Python Scripts on schedule
+								<Li>Data collection:
+								<ul>
+								<Li>Data is requested from the NPS API and saved as a CSV. <script type="text/javascript">
+									// Popup window code
+									function newPopup(url) {
+										popupWindow = window.open(
+											url,'popUpWindow','height=300,width=400,left=10,top=10,resizable=yes,scrollbars=yes,toolbar=yes,menubar=no,location=no,directories=no,status=yes')
+									}
+									</script>
+									<a href="JavaScript:newPopup('Python/API.py');" class="button small">API Call</a>
+								<Li>Economic Impact Reports are manually collected from the Department of the Interior, and tables are extracted and compiled <script type="text/javascript">
+									// Popup window code
+									function newPopup(url) {
+										popupWindow = window.open(
+											url,'popUpWindow','height=300,width=400,left=10,top=10,resizable=yes,scrollbars=yes,toolbar=yes,menubar=no,location=no,directories=no,status=yes')
+									}
+									</script>
+									<a href="JavaScript:newPopup('Python/READPDF.py');" class="button small">PDF Reader</a>
+								<Li>Public Use Statistics Reports are collected from the NPS Visitor Usage Statistics Report, compiled, and saved to CSV <script type="text/javascript">
+									// Popup window code
+									function newPopup(url) {
+										popupWindow = window.open(
+											url,'popUpWindow','height=300,width=400,left=10,top=10,resizable=yes,scrollbars=yes,toolbar=yes,menubar=no,location=no,directories=no,status=yes')
+									}
+									</script>
+									<a href="JavaScript:newPopup('Python/Visits.py');" class="button small">Visitors</a>
+								<Li>Weather and Climate data is scraped from Wikipedia and saved as a CSV <script type="text/javascript">
+									// Popup window code
+									function newPopup(url) {
+										popupWindow = window.open(
+											url,'popUpWindow','height=300,width=400,left=10,top=10,resizable=yes,scrollbars=yes,toolbar=yes,menubar=no,location=no,directories=no,status=yes')
+									}
+									</script>
+									<a href="JavaScript:newPopup('Python/WikiScraper.py');" class="button small">Wiki Scraper</a>
+								</ul>
+								<Li>Data is connected to PowerBi service On-Premises Data Gateway
+								<Li>PowerBi Dashboard is connected to dataset
+								<Li>PowerBi Service is set to Refresh and Publish at pre-determined schedule
+								<Li>Finalized Powerbi report is published
+								</OL></P>
+							<ul class="actions stacked">
+								<li><a href="#CLOUD" class="button big wide smooth-scroll-middle">CLOUD ARCHITECTURE</a></li>
+							</ul>
+						</div>
+						<div class="image">
+							<img src="images/spotlight02.jpg" alt="" />
+						</div>
+					</section>
+				<!-- User Analysis -->
+					<section class="spotlight style1 orient-left content-align-left image-position-center onscroll-image-fade-right onscroll-content-fade-right" id="CLOUD">
+						<div class="content">
+							<h2>Cloud Architecture (BETA)</h2>
+							<OL>
+							<Li>Data Collection:
+							<UL>
+							<Li>Data is requested from the NPS API and saved as a .csv
+							<Li>Economic Impact Reports are manually collected from the Department of the Interior, and tables are extracted and compiled
+							<Li>Public Use Statistics Reports are manually collected from the National Park Service Visitor Usage Statistics Report, compiled, and saved to .csv
+							<Li>Weather and Climate data is scraped from Wikipedia and saved as a .csv
+							</UL>
+							<LI>Data is uploaded and stored in an S3 bucket
+							<LI>Redshift database is established and deployed
+							<LI>Redshift is connected to Powerbi
+							<LI>Finalized Powerbi report is published
+							</OL>
+							<ul class="actions stacked">
+								<li><a href="#ANALYSIS" class="button big wide smooth-scroll-middle">USER ANALYSIS</a></li>
+							</ul>
+						</div>
+						<div class="image">
+							<img src="images/spotlight03.jpg" alt="" />
+						</div>
+					</section>
+				<!-- User Analysis -->
+					<section class="spotlight style1 orient-right content-align-Left image-position-center onscroll-image-fade-left onscroll-content-fade-left" id="ANALYSIS">
+						<div class="content">
+							<h2>User Analysis</h2>
+							<p>An automated data collection survey that enables users to submit feedback directly via dashboard interaction.</p>
+
+							</p>On submission, user feedback data is pushed to google forms and then analyzed within the dashboard at the next refresh.</p>
+							<ul class="actions stacked">
+								<li><a href="#DASHBOARD" class="button big wide smooth-scroll-middle">DASHBOARD</a></li>
+							</ul>
+						</div>
+						<div class="image">
+							<img src="images/spotlight06.jpg" alt="" />
+						</div>
+					</section>
+				<!-- Five -->
+				<section class="spotlight dashboard orient-left content-align-left image-position-center onscroll-image-fade-right onscroll-content-fade-right" id="DASHBOARD">
+					<div class="content">
+						<h2>Dashboard</h2>
+							<p>The final product is an interactive BI report that visualizes 20 years of national park data to help understand the economic impact of resources managed by the National Park Service.<p>
+							<P>The architecture refreshes the data and dashboard every hourfrom 9-4PM.<p>
+							<ul class="actions stacked">
+								<li><a href="https://app.powerbi.com/view?r=eyJrIjoiNGM3NTRiYjUtYmEwYS00NmQzLTk0NDgtNTFhODA2MjRiZDc5IiwidCI6ImQ1Mzc5MjYzLWEzMTQtNGE0Ny04NTBlLWI1ODI4NTdjYTE0NCJ9" target="_blank" class="button">DASHBOARD DEMO</a></li>
+								<li><a href="#CONNECT" class="button big wide smooth-scroll-middle">FEEDBACK & IDEAS</a></li>
+							</ul>
+						</div>
+						<div class="image">
+							<iframe title="NPS Discover" width="1000" height="700" src="https://app.powerbi.com/view?r=eyJrIjoiNGM3NTRiYjUtYmEwYS00NmQzLTk0NDgtNTFhODA2MjRiZDc5IiwidCI6ImQ1Mzc5MjYzLWEzMTQtNGE0Ny04NTBlLWI1ODI4NTdjYTE0NCJ9&pageName=ReportSection" frameborder="0" allowFullScreen="true"></iframe>
+						</div>
+					</section>	
+					
+				<!-- Six -->
+				<section class="items style3 align-center large onscroll-fade-in">
+					<div class="inner-div">
+						<h2> </h2>
+						<h2>Get In Touch</h2>
+						<div class="items style3 align-center large onscroll-fade-in">
+							<section>
+								<div class="front__bkg-photo"></div>
+								<div class="front__face-photo"></div>
+								<div class="front__text"></div>
+								<h3 class="front__text-header">Collin Houtz | Consultant</h3>
+								<ul class="icons" id="CONNECT">
+									<UL>
+									<P><li><a href="https://www.linkedin.com/in/collinhoutz" target="_blank" class="icon brands style2 fa-linkedin-in"><span class="label">LinkedIn</span></a></li><P>
+								<p>&copy; Collin Houtz. <a href="https://github.com/HoutzC/NPS-Discover" target="_blank">NPS DISCOVER</a>.</p>
+								<span class="icons"></span>
+							</section>
+
+						</div>
+					</div>
+				</section>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
