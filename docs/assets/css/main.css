@@ -352,11 +352,11 @@ input, select, textarea {
 		line-height: 1.375;
 		letter-spacing: -0.05em;
 		margin: 0 0 1rem 0;
-		Font-color: rgba(72,128,2);
+		Font-color: rgba(113,45,3);
 	}
 
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
-			Font-color: rgba(72,128,2);
+			Font-color: rgba(113,45,3);
 			text-decoration: none;
 		}
 
