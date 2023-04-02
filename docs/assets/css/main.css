@@ -355,7 +355,7 @@ input, select, textarea {
 	}
 
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
-			color: #48002;
+			color: rgba(72,128,2);
 			text-decoration: none;
 		}
 
@@ -488,7 +488,7 @@ input, select, textarea {
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #000000;
+		color: rgba(72,128,2);
 	}
 
 	blockquote {
