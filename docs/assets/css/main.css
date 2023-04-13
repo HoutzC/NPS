@@ -172,7 +172,7 @@ section, summary, time, mark, audio, video {
 	font-size: 100%;
 	font: inherit;
 	vertical-align: baseline;
-	}
+	Font-color: rgba(72,128,2);}
 
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
@@ -346,7 +346,7 @@ input, select, textarea {
 			letter-spacing: -0.05em;
 			margin: 0 0 1rem 0;
 			font-size: 2.25rem;
-			Font-color: rgba(126, 206, 48, 1);
+			Font-color: rgba(72,128,2);
 		}
 
 	h1, h2, h3, h4, h5, h6 {
@@ -354,11 +354,11 @@ input, select, textarea {
 		line-height: 1.375;
 		letter-spacing: -0.05em;
 		margin: 0 0 1rem 0;
-		Font-color: rgba(126, 206, 48, 1);
+		Font-color: rgba(72,128,2);
 	}
 
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
-			Font-color: rgba(126, 206, 48, 1);
+			Font-color: rgba(72,128,2);
 			text-decoration: none;
 		}
 
