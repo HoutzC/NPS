@@ -346,6 +346,7 @@ input, select, textarea {
 			letter-spacing: -0.05em;
 			margin: 0 0 1rem 0;
 			font-size: 2.25rem;
+			Font-color: rgba(126, 206, 48, 1);
 		}
 
 	h1, h2, h3, h4, h5, h6 {
@@ -353,11 +354,11 @@ input, select, textarea {
 		line-height: 1.375;
 		letter-spacing: -0.05em;
 		margin: 0 0 1rem 0;
-		Font-color: rgba(113,45,3);
+		Font-color: rgba(126, 206, 48, 1);
 	}
 
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
-			Font-color: rgba(113,45,3);
+			Font-color: rgba(126, 206, 48, 1);
 			text-decoration: none;
 		}
 
@@ -453,6 +454,7 @@ input, select, textarea {
 
 		p.major {
 			font-size: 1.1rem;
+				Font-color: rgba(180, 180, 180);
 		}
 
 		h1 {
